@@ -1,4 +1,0 @@
-jquery-cookie
-=============
-
-master jquery
