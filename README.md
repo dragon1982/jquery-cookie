@@ -1,0 +1,5 @@
+jquery-cookie
+=============
+
+master jquery
+
